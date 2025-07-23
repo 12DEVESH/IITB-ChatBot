@@ -1,0 +1,1 @@
+# content for RAG application 
